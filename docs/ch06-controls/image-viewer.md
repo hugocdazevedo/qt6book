@@ -170,7 +170,7 @@ ApplicationWindow {
             horizontalAlignment: Text.AlignHCenter
         }
 
-        standardButtons: StandardButton.Ok
+        standardButtons: Dialog.Ok
     }
 
     // ...
